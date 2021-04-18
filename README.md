@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MageshSundarG.MageshSundarG)
 
-### Connect with me:
+<h1/> Connect with me: <h1/>
 
 
 <!-- <a href="https://discord.gg/bETQvbNubM">
