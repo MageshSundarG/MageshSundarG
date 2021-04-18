@@ -26,6 +26,7 @@
 <a href="mailto:gpk.magsun@gmail.com.com">
  <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />     
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=MageshSundarG.MageshSundarG)
 
 <br />
