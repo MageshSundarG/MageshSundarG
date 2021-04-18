@@ -123,7 +123,7 @@ const MageshSundarG = {
 <br />
 <br />
 
-## If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<h2> If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 <h2/>
 
 <a href="https://www.buymeacoffee.com/mageshsundarg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -140,7 +140,7 @@ const MageshSundarG = {
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mageshsundarg&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MageshSundarG&show_icons=true&count_private=true" />
 
 </details>
 
