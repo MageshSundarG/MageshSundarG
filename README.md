@@ -41,6 +41,8 @@ I discovered & I fit into a rare breed of what I like to call “hybrid develope
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<h2>⚡️ A Few Quick Facts</h2>
+
 - 🌱 &nbsp; I’m currently learning everything 🤣
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/magesh-sundar-965ba2190/)
