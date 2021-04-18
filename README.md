@@ -1,8 +1,8 @@
-### Hello there!, I'm Magesh Sundar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h3> Hello there!, I'm Magesh Sundar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><h3 />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MageshSundarG.MageshSundarG)
 
-<h1/> Connect with me: <h1/>
+<h3> Connect with me: <h3/>
 
 
 <!-- <a href="https://discord.gg/bETQvbNubM">
@@ -90,7 +90,7 @@ const MageshSundarG = {
 };
 ```
 
-### Spotify Playing 🎧
+<h3> Spotify Playing 🎧 <h3/>
 
 
 [![Spotify](https://novatorem-mageshsundarg.vercel.app/api/spotify)](https://open.spotify.com/user/sz32rkhk8k4f6sdmsebhsbzm2)
@@ -99,9 +99,7 @@ const MageshSundarG = {
 <br />
 
 
-### 🔨 Languages and Tools:
-
-<br />
+<h3> 🔨 Languages and Tools: <h3/>
 
 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" width="25" height="42px"/> </a> 
