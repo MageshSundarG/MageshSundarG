@@ -38,10 +38,10 @@
 
 I discovered & I fit into a rare breed of what I like to call “hybrid developers”, others may call this a "design technologist" - in short, I equally enjoy being both creative + technical. The combination of Deep Learning, Web Technology combined with Drones and Robotics drives me to Innovate and Learn. My background is based in Computer Science.
 
+<h2>⚡️ A Few Quick Facts</h2>
+
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<h2>⚡️ A Few Quick Facts</h2>
 
 - 🌱 &nbsp; I’m currently learning everything 🤣
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
