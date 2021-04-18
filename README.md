@@ -2,6 +2,7 @@
 
 ### Connect with me:
 
+![](https://visitor-badge.glitch.me/badge?page_id=MageshSundarG.MageshSundarG)
 <!-- <a href="https://discord.gg/bETQvbNubM">
   <img align="left" alt="MageshSundar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
@@ -27,7 +28,7 @@
  <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />     
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=MageshSundarG.MageshSundarG)
+
 
 <br />
 
