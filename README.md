@@ -1,8 +1,8 @@
-<h3> Hello there!, I'm Magesh Sundar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><h3 />
+<h3> Hello there!, I'm Magesh Sundar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MageshSundarG.MageshSundarG)
 
-<h3> Connect with me: <h3/>
+<h3> Connect with me: </h3>
 
 
 <!-- <a href="https://discord.gg/bETQvbNubM">
@@ -90,7 +90,7 @@ const MageshSundarG = {
 };
 ```
 
-<h3> Spotify Playing 🎧 <h3/>
+<h3> Spotify Playing 🎧 </h3>
 
 
 [![Spotify](https://novatorem-mageshsundarg.vercel.app/api/spotify)](https://open.spotify.com/user/sz32rkhk8k4f6sdmsebhsbzm2)
@@ -99,7 +99,7 @@ const MageshSundarG = {
 <br />
 
 
-<h3> 🔨 Languages and Tools: <h3/>
+<h3> 🔨 Languages and Tools: </h3>
 
 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" width="25" height="42px"/> </a> 
@@ -123,7 +123,7 @@ const MageshSundarG = {
 <br />
 <br />
 
-<h2> If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 <h2/>
+<h2> If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈 </h2>
 
 <a href="https://www.buymeacoffee.com/mageshsundarg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
