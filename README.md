@@ -1,8 +1,10 @@
 ### Hello there!, I'm Magesh Sundar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+![](https://visitor-badge.glitch.me/badge?page_id=MageshSundarG.MageshSundarG)
+
 ### Connect with me:
 
-![](https://visitor-badge.glitch.me/badge?page_id=MageshSundarG.MageshSundarG)
+
 <!-- <a href="https://discord.gg/bETQvbNubM">
   <img align="left" alt="MageshSundar's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
