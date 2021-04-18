@@ -49,7 +49,7 @@ I discovered & I fit into a rare breed of what I like to call “hybrid develope
 - 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/1qjyPFTYELyLwbAV7Xjz__9mVv6JelfJjuF4mfPlgFLY/edit?usp=sharing)
 - 👯 &nbsp; I’m looking to collaborate with other tech-interested person
 - 🥅 &nbsp; 2021 Goals: Contribute more to Open Source projects
-- ⚡ &nbsp; Fun fact: I love to  and play guitar / drums
+- ⚡ &nbsp; Fun fact: I love to cook , watch movies and sketch
 
 ## 👯 Communities
 
