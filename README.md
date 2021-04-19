@@ -26,7 +26,7 @@
 <a href="mailto:gpk.magsun@gmail.com.com">
  <img align="left" alt="MageshSundar's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp;
-<a href="mailto:gpk.magsun@gmail.com.com">
+<a href="https://www.instagram.com/imageshsundar/">
  <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />     
 </a>
 
