@@ -53,6 +53,7 @@ I discovered & I fit into a rare breed of what I like to call “hybrid develope
 
 ## 👯 Communities
 
+* GOOGLE DSC SSIT LEAD'21
 * Strategist & Student Co-Ordinator at SIT M-Apps Club.
 * Student Co-Ordinator at NUTPAM 2020.
 * Campus Ambassador at Studymonk. 
@@ -90,10 +91,10 @@ const MageshSundarG = {
 };
 ```
 
-<h2> Spotify Playing 🎧 </h2>
+<!-- <h2> Spotify Playing 🎧 </h2>
 
 
-[![Spotify](https://novatorem-mageshsundarg.vercel.app/api/spotify)](https://open.spotify.com/user/sz32rkhk8k4f6sdmsebhsbzm2)
+[![Spotify](https://novatorem-mageshsundarg.vercel.app/api/spotify)](https://open.spotify.com/user/sz32rkhk8k4f6sdmsebhsbzm2) -->
 
 
 <br />
