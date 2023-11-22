@@ -11,7 +11,7 @@
 <a href="https://discord.gg/bETQvbNubM">
 <img align="left" src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
 </a>
-<a href="https://twitter.com/MageshSundarG">
+<!-- <a href="https://twitter.com/MageshSundarG">
   <img align="left" alt="Magesh Sundar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/magesh-sundar-965ba2190/">
@@ -27,14 +27,14 @@
  <img align="left" alt="MageshSundar's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/imageshsundar/">
- <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />     
+ <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />      -->
 </a>
 
 
 
 <br />
 
-## I'm a Passionate Researcher, Full Stack Developer, AI Enthusiast and Budding Engineer
+## I'm a Passionate Researcher, Full Stack Developer, AI Enthusiast and Project Manager
 
 I discovered & I fit into a rare breed of what I like to call “hybrid developers”, others may call this a "design technologist" - in short, I equally enjoy being both creative + technical. The combination of Deep Learning, Web Technology combined with Drones and Robotics drives me to Innovate and Learn. My background is based in Computer Science.
 
